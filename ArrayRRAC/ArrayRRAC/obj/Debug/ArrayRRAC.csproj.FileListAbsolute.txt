@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\bin\Debug\ArrayRRAC.exe.config
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\bin\Debug\ArrayRRAC.exe
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\bin\Debug\ArrayRRAC.pdb
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\obj\Debug\ArrayRRAC.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\obj\Debug\ArrayRRAC.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\obj\Debug\ArrayRRAC.exe
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\obj\Debug\ArrayRRAC.pdb
+C:\Users\ACT-STUDENT\Documents\DastruPrelim1\ArrayRRAC\ArrayRRAC\obj\Debug\ArrayRRAC.exe.config
