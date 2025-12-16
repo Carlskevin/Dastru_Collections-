@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\bin\Debug\Belleza_Act1SingleDimen.exe.config
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\bin\Debug\Belleza_Act1SingleDimen.exe
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\bin\Debug\Belleza_Act1SingleDimen.pdb
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\obj\Debug\Belleza_Act1SingleDimen.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\obj\Debug\Belleza_Act1SingleDimen.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\obj\Debug\Belleza_Act1SingleDimen.exe
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\obj\Debug\Belleza_Act1SingleDimen.pdb
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act1SingleDimen\Belleza_Act1SingleDimen\obj\Debug\Belleza_Act1SingleDimen.exe.config
