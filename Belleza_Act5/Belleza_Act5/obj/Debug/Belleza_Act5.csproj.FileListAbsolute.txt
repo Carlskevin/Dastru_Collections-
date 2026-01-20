@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\obj\Debug\Belleza_Act5.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\obj\Debug\Belleza_Act5.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\bin\Debug\Belleza_Act5.exe.config
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\bin\Debug\Belleza_Act5.exe
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\bin\Debug\Belleza_Act5.pdb
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\obj\Debug\Belleza_Act5.exe
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\obj\Debug\Belleza_Act5.pdb
+C:\Users\ACT-STUDENT\source\repos\Belleza_Act5\Belleza_Act5\obj\Debug\Belleza_Act5.exe.config
