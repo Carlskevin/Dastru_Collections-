@@ -1,0 +1,8 @@
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\bin\Debug\Belleza_Acivity8.exe.config
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\bin\Debug\Belleza_Acivity8.exe
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\bin\Debug\Belleza_Acivity8.pdb
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\obj\Debug\Belleza_Acivity8.csproj.AssemblyReference.cache
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\obj\Debug\Belleza_Acivity8.csproj.CoreCompileInputs.cache
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\obj\Debug\Belleza_Acivity8.exe
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\obj\Debug\Belleza_Acivity8.pdb
+C:\Users\carls\OneDrive\Desktop\Belleza_Acivity8\Belleza_Acivity8\obj\Debug\Belleza_Acivity8.exe.config
