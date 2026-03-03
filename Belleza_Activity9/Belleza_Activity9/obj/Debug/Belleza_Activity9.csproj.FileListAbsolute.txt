@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\bin\Debug\Belleza_Activity9.exe.config
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\bin\Debug\Belleza_Activity9.exe
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\bin\Debug\Belleza_Activity9.pdb
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\obj\Debug\Belleza_Activity9.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\obj\Debug\Belleza_Activity9.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\obj\Debug\Belleza_Activity9.exe
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\obj\Debug\Belleza_Activity9.pdb
+C:\Users\ACT-STUDENT\Desktop\Belleza_Activity9\Belleza_Activity9\obj\Debug\Belleza_Activity9.exe.config
